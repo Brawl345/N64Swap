@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files / pip / IDE
+__pycache__/
+*.py[cod]
+*$py.class
+src/
+.idea/
+*.n64
+*.v64
+*.z64
